@@ -22,9 +22,9 @@ code.
 
 ## Write a Function To Case-insensitively Match `string`s
 
-Write `findMatching`- This function takes an array of `drivers` and a `string`
+<!-- Write `findMatching`- This function takes an array of `drivers` and a `string`
 as arguments, and returns the matching list of drivers. The function should be
-case insensitive.
+case insensitive. -->
 
 ## Write a Function To Partially Match Substrings
 
